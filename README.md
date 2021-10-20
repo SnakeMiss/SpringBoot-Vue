@@ -1,2 +1,2 @@
-# SpringBoot-Vue
-简单小项目
+# SpringBoot+Vue
+简单crud
